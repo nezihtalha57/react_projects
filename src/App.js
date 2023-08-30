@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Sayac from "./components/Sayac";
-import React, { useEffect, useState } from "react";
+// import Sayac from "./components/Sayac";
+import React, {  } from "react";
 
 function App() {
   // const [sayaclar, setSayaclar] = useState([]);
